@@ -1,0 +1,514 @@
+@import 'fonts.css'; 
+
+li  {
+    display: inline;
+    margin: 0;
+}
+
+.menu-bar {   
+    
+    text-align: center;
+    background-image: url(../img/Header.png);
+    background-repeat: no-repeat;
+    height:  745px;
+    background-size: 100% 745px;
+}
+
+.home__button {
+    font-family: 'Gotham Rounded Bold';
+    font-size: 16px;
+
+}
+
+.logo__item{
+    margin-left: 105px;
+    margin-right: 20px;
+    
+}
+.logo2__item{
+    padding: 41px 0px 0px;
+}
+
+
+.menu__item  {
+    margin-left: 80px;
+    font-family: 'Gotham Rounded Bold';
+    font-size: 16px;
+    letter-spacing: 0.15em;
+
+
+}
+.itempad {
+    margin: 74px 0px 0px 0px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.menu__item a:hover {
+    text-decoration: none;
+    color: rgb(57, 58, 56);
+}
+
+.home__button a:hover {
+    text-decoration: none;
+    color: rgb(57, 58, 56);
+}
+.title  {
+    padding: 247px 391px 0px 382px;
+    margin: 0px;
+    font-family: 'Gotham Rounded Bold';
+    font-size: 36px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    letter-spacing: 0.15em;
+    
+}
+.body  {
+
+    font-family: 'Gotham Rounded Medium';
+    font-size: 15px 328px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 13px;
+    margin-bottom: 26px;
+    margin-left: 476px;
+    margin-right: 472px;
+    letter-spacing: 0.15em;
+}
+.button {
+    width: 166px;
+    height: 49px;
+    font-family: 'Gotham Rounded Bold';
+    font-size:12px;
+    color: rgb(255, 255, 255); 
+    letter-spacing: 0.15em;
+    margin-bottom: 210px;
+    transition: 0.3s;
+    cursor: pointer;
+    border-radius: 3px;
+}
+.button_full {
+    border: none;
+    background-color: #16a085;
+    
+}
+
+.button_full:hover{
+    background-color: #91ebd9;
+}
+.logo{
+   cursor: pointer;
+}
+
+.twitter {
+    padding: 0px 0px 26px;
+}
+.flickr {
+    padding: 0px 16px 26px;
+}
+.dribble{
+    padding: 0px 0px 26px;
+    top: 1600px;
+}
+.twitter:hover {
+    opacity: 80%;
+}
+.flickr:hover {
+    opacity: 80%;
+}
+.dribble:hover{
+    opacity: 80%;
+}
+.iphone {
+
+    height: 494px;
+    background-image: url(../img/hand.png);
+    background-repeat: no-repeat;
+    background-size: 100% 494px;
+    background-position: center center;
+    margin-bottom: 0;
+    margin-top: 0;
+
+}
+.you_life {
+    font-family: 'Gotham Rounded Bold';
+    font-size:18px;
+    color: #16a085; 
+    margin: 0px;
+    padding: 113px 0px 50px 0px;
+    letter-spacing: 0.15em;
+}
+.body2 {
+    font-family: 'Gotham Rounded Book';
+    font-size:12px;
+    margin: 0px;
+    letter-spacing: 0.15em;
+    line-height: 24px;
+}
+.button2 {
+    width: 192px;
+    height: 51px;
+    font-family: 'Gotham Rounded Bold';
+    font-size:12px;
+    color: rgb(255, 255, 255); 
+    letter-spacing: 0.15em;
+    margin-top: 45px;
+    transition: 0.3s;
+    cursor: pointer;
+    border-radius: 3px;
+}
+.phone{
+    height: 558px;
+    background-image: url(../img/iphone.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 558px;
+}
+.design{
+    font-family: 'Gotham Rounded Bold';
+    font-size:18px;
+    color: #16a085; 
+    margin: 0px;
+    padding: 146px 0px 45px 638px;
+    letter-spacing: 0.15em;
+}
+.body3{
+    font-family: 'Gotham Rounded Book';
+    font-size:12px;
+    margin: 0px;
+    padding: 0px 0px 0px 638px;
+    letter-spacing: 0.15em;
+    line-height: 24px;
+    position: absolute;
+}
+.button3 {
+    width: 192px;
+    height: 51px;
+    font-family: 'Gotham Rounded Bold';
+    font-size:12px;
+    color: rgb(255, 255, 255); 
+    letter-spacing: 0.15em;
+    margin-top:186px;
+    margin-left: 638px;
+    transition: 0.3s;
+    cursor: pointer;
+    border-radius: 0px;
+}
+.data{
+    font-family: 'Gotham Rounded Bold';
+    font-size:12px;
+    color: #373737; 
+    margin: 0px;
+    padding: 45px 468px 0px 638px;
+    letter-spacing: 0.15em;
+}
+
+.button4 {
+    border: none;
+    background-color: #ffffff;
+    cursor: pointer;
+    padding: 0px;
+    margin-right: 10px;
+    font-size: 25px;
+    font-family: 'Gotham Rounded Medium';
+    
+}
+
+.button_change:hover {
+    text-decoration: none;
+    color:#16a085;
+}
+
+.button5 {
+    border: none;
+    background-color: #ffffff;
+    cursor: pointer;
+    padding: 0px;
+    font-size: 25px;
+    font-family: 'Gotham Rounded Medium'
+}
+.select{
+    margin: 8px 0px 0px 638px;
+}
+
+.community {
+    height: 483px;
+    background-image: url(../img/Rettangolo\ 6.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 483px;
+}
+
+.logo2 {
+    padding: 165px 0px 263px 191px;
+    
+}
+
+.button6 {
+    border: none;
+    background-color: #f5f6f7;
+    padding: 0px 8px 0px 0px;
+    cursor: pointer;
+    font-size: 25px;
+    font-family: 'Gotham Rounded Medium';
+}
+
+.button7 {
+    border: none;
+    background-color: #f5f6f7;
+    padding: 0px 0px 0px 8px;
+    cursor: pointer;
+    font-size: 25px;
+    font-family: 'Gotham Rounded Medium';
+}
+
+.select2 {
+    display: flex;
+    padding-top:95px;
+    cursor: pointer;
+    justify-content: flex-end;
+}
+.content {
+    display: flex;
+}
+.car__rain{
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px 0px 0px 0px;
+}
+.rain {
+    padding: 0px 0px 0px 24px;
+}
+.logo3 {
+    padding: 44px 0px 0px 59px;
+}
+.our__comm{
+    font-family: 'Gotham Rounded Bold';
+    font-size:16px;
+    color: #373737; 
+    margin: 0px;
+    padding: 31px 80px 0px 0px;
+    letter-spacing: 0.15em;
+}
+
+.text__body{
+    font-family: 'Gotham Rounded Medium';
+    font-size:10px;
+    color: #373737; 
+    margin: 0px;
+    padding: 26px 80px 0px 0px;
+    letter-spacing: 0.15em;
+    text-align: center;
+}
+.subscribe {
+    height: 790px;
+    background-image: url(../img/subscribe.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 790px;
+}
+
+.sub_comm {
+    font-family: 'Gotham Rounded Bold';
+    font-size:24px;
+    color: #ffffff; 
+    margin: 0px;
+    padding: 353px 0px 35px 0px;
+    letter-spacing: 0.15em;
+    text-align: center;
+}
+
+.input_btn {
+    display: flex;
+}
+
+.button__email {
+    font-family: 'Gotham Rounded Medium';
+    font-size:16px;
+    color: #373737;
+    letter-spacing: 0.15em;
+    text-align: center; 
+    margin: 0px;
+    width: 280px;
+    height: 60px;
+    cursor: pointer;
+    padding-left: 339px;
+}
+
+.input {
+    width: 232px;
+    padding: 21px 24px;
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+    border-bottom: 0px;
+    font-family: 'Gotham Rounded Medium';
+    letter-spacing: 0.15em;
+    font-size: 16px;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+.button__check {
+    width: 63px;
+    height: 60px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    cursor: pointer;
+}
+
+.download {
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 396px;
+    background-image: url(../img/Rettangolo\ 11.png);
+    background-size: 100% 396px;
+    
+}
+
+.download__it {
+    font-family: 'Gotham Rounded Bold';
+    font-size:20px;
+    color: #373737; 
+    margin: 0px;
+    letter-spacing: 0.15em;
+    padding: 92px 0px 19px 0px;
+    text-align: center;
+    cursor: pointer;
+}
+.body__download {
+    font-family: 'Gotham Rounded Medium';
+    font-size:12px;
+    color: #373737; 
+    margin: 0px;
+    letter-spacing: 0.15em;
+    text-align: center;
+}
+
+.apple__android {
+    display: flex;
+    padding: 47px 0px 0px 202px;
+}
+
+.button__apple {
+    border: none;
+    padding: 24px 134px 20px 0px;
+    transition: 0.3s;
+    cursor: pointer;
+    margin-right: 26px;
+    background-image: url(../img/fa-apple.png);
+    width: 297px;
+    height: 56px;
+    font-family: 'Gotham Rounded Bold';
+    font-size:16px;
+    color: #ffffff; 
+    letter-spacing: 0.15em;
+    
+}
+
+.button__apple:hover {
+   opacity: 50%;
+    
+}
+
+.button__android {
+    border: none;
+    padding: 24px 127px 20px 0px;
+    transition: 0.3s;
+    cursor: pointer;
+    background-image: url(../img/fa-android.png);
+    width: 297px;
+    height: 56px;
+    font-family: 'Gotham Rounded Bold';
+    font-size:18px;
+    color: #ffffff; 
+    letter-spacing: 0.15em;
+}
+
+.button__android:hover {
+    opacity: 50%;
+}
+
+.footer {
+    height: 131px;
+}
+.footer__content {
+    display: flex;
+    justify-content: space-between;
+    color: #373737;
+}
+.footer__logo {
+    padding-top: 38px;
+}
+.content__left {
+    display: flex;
+    flex-direction: column;
+    padding-top: 46px;
+}
+.footer__description {
+    padding-top: 23px;
+    margin: 0 0;
+    font-family: 'Gotham Rounded Bold';
+    font-size: 14px;
+    letter-spacing: 0.15em;
+}
+
+.footer__navigation {
+    font-family: 'Gotham Rounded Bold';
+    font-size: 14px;
+    letter-spacing: 0.15em;
+    display: flex;
+    list-style-type: none;
+    padding-left: 0px;
+    margin: 0 0;
+}
+
+.nav__credits:hover{
+    text-decoration: none;
+    color: #16a085;
+}
+
+.nav__teams:hover{
+    text-decoration: none;
+    color: #16a085;
+}
+
+.nav__privacy:hover{
+    text-decoration: none;
+    color: #16a085;
+}
+
+.footer__navigation>li {
+    padding-right: 11px;
+    margin-right: 12px;
+    position: relative;
+}
+.footer__navigation>li::before {
+    content: '';
+    display: block;
+    width: 1px;
+    height: 13px;
+    background-color: #16a085;
+    position: absolute;
+    right: 0;
+}
+.footer__navigation>li:last-child::before {
+    display: none;
+}
+
+.footer__navigation>li>a {
+    text-decoration: none;
+    color: #373737;
+}
+
+.wrapper1 {
+    padding-left: 128px;
+    padding-right: 128px;
+    max-width: 1024px;
+    margin: 0 auto;
+    position: relative;
+}
